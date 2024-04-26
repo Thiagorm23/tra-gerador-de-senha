@@ -1,0 +1,1 @@
+# tra-gerador-de-senha
